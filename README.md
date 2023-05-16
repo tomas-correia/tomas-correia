@@ -1,8 +1,3 @@
-<div align="center">
-<h1>pato🦆frango🐔</h1>
-<i>where magic happens (not)</i>
-</div>
-
 ## 🧠 **Skills**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
