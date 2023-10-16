@@ -39,4 +39,3 @@ Cube Penguin was definitely the closest I could have got to that, and I'm still 
 ##### Links
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCajkXX3AEkVtD3rX9bKwe6A?label=Cube%20Penguin&style=social)](https://www.youtube.com/channel/UCajkXX3AEkVtD3rX9bKwe6A)
-[![Twitter URL](https://img.shields.io/twitter/url?label=Cube%20Penguin&style=social&url=https%3A%2F%2Ftwitter.com%2Fcube_penguin)](https://twitter.com/cube_penguin)
