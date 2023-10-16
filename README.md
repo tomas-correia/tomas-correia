@@ -18,11 +18,9 @@
 
 ![Quacker Banner](/images/quackerbanner.png)
 
-<ins>A virtual world</ins> that I'm currently working on, where you can swim around as a rubber duck and make new friends.
+<ins>A virtual world</ins> that I'm currently working on, where you can swim around as a rubber duck and make new friends, highly inspired by Club Penguin.
 
 Explore funny rooms, collect and wear clothing items, play games and more!
-
-Highly inspired by Club Penguin.
 
 ### 🧊 Cube Penguin *(2017-2021)*
 
