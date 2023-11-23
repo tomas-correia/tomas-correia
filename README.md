@@ -17,7 +17,7 @@
 
 ### 🦆 Quacker *(2022-current)*
 
-![Quacker Banner](/images/quackerbanner.png)
+![Quacker Banner](/images/quacker_logo.svg)
 
 <ins>A virtual world</ins> that I'm currently working on, where you can swim around as a rubber duck and make new friends, highly inspired by Club Penguin.
 
@@ -25,7 +25,7 @@ Explore funny rooms, collect and wear clothing items, play games and more!
 
 ### 🧊 Cube Penguin *(2017-2021)*
 
-![Cube Penguin Banner](/images/cbpbanner.png)
+![Cube Penguin Banner](/images/cbp_banner.png)
 
 <ins>A former Club Penguin Minecraft server</ins> that recreated the entirety of the Club Penguin virtual world, including a long list of fully working features like minigames, items, parties, puffles, stamps, postcards, mascots, buddies, and many others.
 
