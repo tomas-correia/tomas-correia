@@ -36,7 +36,7 @@
 
 ### 🦆 Quacker *(2022-current)*
 
-![Quacker Banner](/images/quacker_logo.svg)
+<img src="/images/quacker_logo.svg" width="400" alt="Quacker Banner">
 
 [An online web-based virtual world](https://discord.gg/EgnRYegqYn) that I'm currently working on, where you can walk around as a duck and make new friends, highly inspired by Club Penguin.
 
