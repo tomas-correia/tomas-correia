@@ -49,7 +49,6 @@ Explore funny rooms, collect and wear clothing items, play games and more!
 [A former Club Penguin Minecraft server](https://discord.gg/Mg5TrJP7Dt) that recreated the entirety of the Club Penguin virtual world, including a long list of fully working features like minigames, items, parties, puffles, stamps, postcards, mascots, buddies, and many others.
 
 It was definitely thanks to Cube Penguin, and ultimately to Club Penguin, that I took the first steps and learned the most about programming and many other fields.
-Definitely my biggest project so far.
 
 Nowadays, I'm still passionate about virtual worlds, especially Club Penguin, as it was a big part of my childhood.  
 I also remember it was my dream as an 8 year-old kid to work there one day.  
