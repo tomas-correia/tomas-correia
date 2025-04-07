@@ -32,15 +32,15 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## 🛠️ **Main Projects**
+## 🛠️ **Notable Projects**
 
 ### 🦆 Quacker *(2022-current)*
 
 <img src="/images/quacker_logo.svg" width="400" alt="Quacker Banner">
 
-[An online web-based virtual world](https://discord.gg/EgnRYegqYn) that I'm currently working on, where you can walk around as a duck and make new friends, highly inspired by Club Penguin.
+[An online web-based virtual world](https://discord.gg/EgnRYegqYn) where you can walk around as a duck and make new friends.
 
-Explore funny rooms, collect and wear clothing items, play games and more!
+Explore a world filled with adventure, collect treasure, express your style, play games, and more!
 
 ### 🧊 Cube Penguin *(2017-2021)*
 
