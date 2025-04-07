@@ -38,7 +38,7 @@
 
 <img src="/images/quacker_logo.svg" width="400" alt="Quacker Banner">
 
-[An online web-based virtual world](https://discord.gg/EgnRYegqYn) where you can walk around as a duck and make new friends.
+An online web-based virtual world where you can walk around as a duck and make new friends.
 
 Explore a world filled with adventure, collect treasure, express your style, play games, and more!
 
@@ -46,7 +46,7 @@ Explore a world filled with adventure, collect treasure, express your style, pla
 
 ![Cube Penguin Banner](/images/cbp_banner.png)
 
-[A former Club Penguin Minecraft server](https://discord.gg/Mg5TrJP7Dt) that recreated the entirety of the Club Penguin virtual world, including a long list of fully working features like minigames, items, parties, puffles, stamps, postcards, mascots, buddies, and many others.
+A former Club Penguin Minecraft server that recreated the entirety of the Club Penguin virtual world, including a long list of fully working features like minigames, items, parties, puffles, stamps, postcards, mascots, buddies, and many others.
 
 It was definitely thanks to Cube Penguin, and ultimately to Club Penguin, that I took the first steps and learned the most about programming and many other fields.
 
